@@ -22,3 +22,5 @@ End-to-end machine learning project applied to real-world business problem. This
 ## Limitationas ##
 
 - Toronto underwent some redistricitng in March 2022, and the new districts' median incomes have not been released in any census data as of making this project. The median incomes of the new districts that are displayed are taken from the previous district name from the 2016 Census.
+
+<img src="GTA_map.png">

@@ -16,7 +16,7 @@ End-to-end machine learning project applied to real-world business problem. This
 
 - Handcrafted housing data (~30000 of the most recently leased homes)
 - Geographical data of GTA neighbourhoods
-- Neighbourhood profiles (2 – years old)
+- Neighbourhood profiles (6 – years old)
 - Geographical data of Toronto subway lines/stations
 
 ## Limitations ##

@@ -2,6 +2,8 @@
 
 End-to-end machine learning project applied to real-world business problem. This project is trying to depict rental situation in Toronto and find out what affects the current prices. Focus is on exploratory data analysis, feature engineering and hyper parameter tuning. 
 
+View the project [HERE](https://nbviewer.org/github/james-mccarron/GTA_Rental_Prices/blob/main/GTA_Rent_Pricing.ipynb?flush_cache=true)
+
 ## Key Takeawys ##
 
 - Efficient web scraping
